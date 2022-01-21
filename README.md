@@ -1,3 +1,4 @@
+![Demo of the code](https://github.com/anapysasi/day_trading_system/blob/main/DEMO.gif)
 # day_trading_system
 
 ### Authors: [Maggie Wu](https://github.com/MaggieWoo2), [Sambhav Jain](https://github.com/sambhavjain3211) and Ana Ysasi.
@@ -112,7 +113,7 @@ user@User-MacBook-Pro day_trading_system % python tcp_server.py -p 9995 -f OneDa
 ```
 where `s 3` is the signal send to the server to trade <img src="https://render.githubusercontent.com/render/math?math=\3"> stocks at the time.
 
-![Demo of the code](https://github.com/anapysasi/day_trading_system/blob/main/DEMO.gif)
+
 ![](https://github.com/anapysasi/day_trading_system/blob/main/result_sample.png)
 
 
